@@ -2,7 +2,7 @@
 
 - [Stanford Paper: Schwartz](https://psb.stanford.edu/psb-online/proceedings/psb03/schwartz.pdf)
 
-- [GitHub repo explaining Schwartz Abbreviations extraction](https://github.com/philgooch/abbreviation-extraction)
+- [GitHub Repo explaining Schwartz Abbreviations extraction](https://github.com/philgooch/abbreviation-extraction)
 
 - [Webopedia page with 1,700 abbreviations](https://www.webopedia.com/reference/text-abbreviations/)
 
