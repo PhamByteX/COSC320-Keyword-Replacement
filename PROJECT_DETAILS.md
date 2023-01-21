@@ -1,5 +1,3 @@
-# Project Details
-
 # KEYWORD REPLACEMENT
 
 ## Description
