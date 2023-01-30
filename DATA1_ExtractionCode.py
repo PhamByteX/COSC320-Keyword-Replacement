@@ -5,6 +5,12 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 
+from google.colab import drive
+drive.mount('/content/drive')
+
+import os
+os.chdir("/content/drive/MyDrive/Keyword Replacement/")
+
 # Make a request to the webpage
 url = 'https://www.webopedia.com/reference/text-abbreviations/'
 response = requests.get(url)
@@ -14,7 +20,7 @@ html = response.text
 soup = BeautifulSoup(html, 'html.parser')
 
 # Open a CSV file for writing
-with open('table_data.csv', 'w', newline='') as csvfile:
+with open('DATA1.csv', 'w', newline='') as csvfile:
     # Create a CSV writer
     writer = csv.writer(csvfile)
 
