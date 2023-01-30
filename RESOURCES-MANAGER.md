@@ -7,3 +7,5 @@
 - [Webopedia page with 1,700 abbreviations](https://www.webopedia.com/reference/text-abbreviations/)
 
 - [GitHub page with 6,000 acronyms](https://github.com/krishnakt031990/Crawl-Wiki-For-Acronyms/blob/master/AcronymsFile.csv#L66)
+
+- [Abbreviations.com](https://www.abbreviations.com/)
